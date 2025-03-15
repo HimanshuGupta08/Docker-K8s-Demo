@@ -1,6 +1,4 @@
-Docker K8s 
-
-This repository is to create a basic setup to run a node.js application using Docker and K8s
+Docker K8s - This repository is to create a basic setup to run a node.js application using Docker and K8s
 
 ## **1. Folder Structure**  
 Your project folder should look like this:  
